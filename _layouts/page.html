@@ -10,6 +10,15 @@ layout: default
 
   <div class="post-content">
     {{ content }}
+
+    {% if page.faqs %}
+        <dl class="list list--faqs">
+        {% for faq in page.faqs %}
+        <dt class="list__term"><strong>{{ faq.question }}</strong></dt>
+            <dd class="list__def">{{ faq.answer }}</dd>
+        {% endfor %}
+        </dl>
+    {% endif %}
   </div>
 
 </article>

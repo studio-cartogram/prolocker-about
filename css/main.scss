@@ -12,7 +12,7 @@ $base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$base-unit:     8px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -49,5 +49,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
+        "list",
         "syntax-highlighting"
 ;

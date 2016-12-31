@@ -1,0 +1,16 @@
+.underline {
+    display: inline-block;
+    position: relative;
+
+    &:before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        width: auto;
+        background: currentColor;
+        height: 1px;
+    }
+}
+

@@ -2,23 +2,31 @@
 layout: default
 ---
 
-<article class="post">
+<article class="container main page">
 
-  <header class="post-header">
-    <h1>{{ page.intro }}</h1>
-  </header>
+  {% if page.intro %}
+    <header class="py5 row page__header">
+      <h1>{{ page.intro }}</h1>
+    </header>
+  {% endif %}
 
-  <div class="main">
   {% if page.blocks %}
-    <div class="blocks">
+    <div class="row blocks">
       {% for block in page.blocks %}
-        <div class="block">{{ block }}</div>
+        <div class="format column column--auto block">
+          <h3>{{ block.heading }}</h3>
+          {{ block.text | markdownify }}
+        </div>
       {% endfor %}
     </div>
   {% endif %}
   </div>
 
-  <div class="post-content">
+  <div class="row py5">
+    <hr class="rule" />
+  </div>
+
+  <div class="row post-content">
     {{ content }}
     {% if page.faqs %}
         <dl class="list list--faqs">

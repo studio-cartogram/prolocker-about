@@ -1,0 +1,11 @@
+.icon {
+    display:inline-block;
+    max-width: 2.5em;
+    max-height: 2.5em;
+
+    @include bp($b-tablet) {
+        max-width: 2em;
+        max-height: 2em;
+    }
+}
+

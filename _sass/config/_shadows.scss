@@ -1,0 +1,10 @@
+/* =========================================
+		Shadows
+   ========================================= */
+/**
+ * Prefix shadows with $s_
+ * to make them easier to find
+ * with autocomplete
+**/
+
+$s-default: 0 2px 8px 0px rgba($c-black, 0.10);

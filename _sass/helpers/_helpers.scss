@@ -1,0 +1,27 @@
+.show-on-laptop {
+  display:none;
+
+  @include bp($b-laptop) {
+    display:block;
+  }
+
+}
+
+.p1 {
+  padding: $d-base;
+}
+
+.py2 {
+  padding-top: $d-duo;
+  padding-bottom: $d-duo;
+}
+
+.py3 {
+  padding-top: $d-trio;
+  padding-bottom: $d-trio;
+}
+
+.py5 {
+  padding-top: $d-quin;
+  padding-bottom: $d-quin;
+}

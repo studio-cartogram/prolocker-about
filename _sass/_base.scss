@@ -1,7 +1,91 @@
-@import './config';
-@import './main';
-@import './header';
-@import './subheader';
-@import './links';
-@import './blocks';
+/**
+ * Global Project Specific Variables
+ */
+@import 'config/paths';
+@import 'config/colors';
+@import 'config/typography';
+@import 'config/dimensions';
+@import 'config/breakpoints';
+@import 'config/animations';
+@import 'config/shadows';
+
+
+
+/**
+ * Functions & Mixins & Animations
+ */
+
+// utilities
+@import 'helpers/functions/opposite-direction';
+@import 'helpers/functions/parseInt';
+@import 'helpers/functions/easing';
+@import 'helpers/mixins/bp';
+
+// styling utilities
+@import 'helpers/mixins/fit';
+@import 'helpers/mixins/list';
+@import 'helpers/mixins/reset';
+@import 'helpers/mixins/clearfix';
+@import 'helpers/mixins/visuallyhidden';
+
+// form elements
+@import 'helpers/mixins/placeholder';
+
+// transitions
+@import 'helpers/mixins/cascade';
+
+
+
+/**
+ * Fonts, Icon Fonts & Sprites
+ * Each one requests external resources, keep out of critical css?
+ */
+
+
+
+/**
+ * Vendor Styles
+ * Not Modified for Maintainability
+ * Reset/Normalize First
+ */
+@import 'vendor/sanitize';
+@import 'vendor/polyfill.object-fit';
+@import 'vendor/moz-backround-picture';
+@import 'vendor/utility-classes';
+
+
+
+/**
+ * Common Styles
+ */
+
+/**
+ * Typography Styles
+ */
+@import 'typography/base';
+@import 'typography/headings';
+@import 'typography/paragraphs';
+@import 'typography/utils';
+
+/**
+ * Component Styles
+ */
+@import 'components/grid';
+@import 'components/header';
+@import 'components/subheader';
+@import 'components/anchor';
+@import 'components/blocks';
+@import 'components/icons';
+@import 'components/rule';
+
+/**
+ * Layout Styles
+ */
+@import 'layouts/page';
+
+
+/**
+ * Override Styles
+ */
+@import 'helpers/helpers';
 

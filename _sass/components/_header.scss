@@ -1,0 +1,9 @@
+.header {
+  background: $ca-headerBg;
+  box-shadow: $s-default;
+}
+
+.header__link {
+  line-height: $d-oct;
+  margin:0 $d-base;
+}

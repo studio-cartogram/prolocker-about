@@ -1,0 +1,20 @@
+/* =========================================
+Utility Classes
+========================================= */
+
+@import '../helpers/mixins/clearfix';
+@import '../helpers/mixins/visuallyhidden';
+
+.clearfix {
+    @include clearfix;
+}
+
+.visuallyhidden {
+    @include visuallyhidden;
+    &--no-js { @include visuallyhidden(no-js); }
+    &--focusable { @include visuallyhidden(focusable); }
+}
+
+.make-block {
+    display: block !important;
+}

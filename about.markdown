@@ -1,6 +1,11 @@
 ---
 title: About
 date: 2016-07-19 02:50:00 Z
+blocks:
+- section one
+- section two
+- section three
+intro: Prolocker helps fans and so on
 ---
 
 ##ProLocker is the online equivalent of browsing the locker rooms of the world's most prolific professional athletes. 

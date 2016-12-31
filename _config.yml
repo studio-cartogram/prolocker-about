@@ -21,3 +21,8 @@ defaults:
   values:
     layout: page
 permalink: pretty
+facebookUrl: http://facebook.com
+twitterUrl: http://twitter.com
+youtubeUrl: http://youtube.com
+instagramUrl: http://instagram.com
+snapChatUrl: http://snapchat.com

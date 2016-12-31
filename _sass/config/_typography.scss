@@ -1,0 +1,29 @@
+/* =========================================
+		Typography
+   ========================================= */
+/**
+ * Prefix typography vars with $t_
+ * to make them easier to find with
+ * autocomplete
+ *
+ */
+
+// font family
+$t-fontBody: "acumin-pro", sans-serif;
+
+// font size
+$t-sizeBase: 16px;
+$t-sizeAlpha: 1.5em;
+$t-sizeBeta: 1.4375em;
+$t-sizeGamma: 1em;
+$t-sizeZeta: 0.8em;
+$t-sizeP: 1em;
+
+// line height
+$t-weightLight: 300;
+$t-weightMedium: 500;
+$t-weightSemiBold: 600;
+
+// line height
+$t-lineHeightHeading: 1.25;
+$t-lineHeight: 1.5;

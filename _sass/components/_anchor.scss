@@ -1,9 +1,20 @@
 .link {
   text-decoration: none;
+  transition: color $a-timing;
+  color: inherit;
+  &.is-active,
+  &:hover {
+    color: $ca-linkHov;
+  }
+}
+
+.link--inline {
+  text-decoration: underline;
 }
 
 .link--has-line {
   position: relative;
+  display: inline-block;
 
   &:after {
     content: '';
@@ -13,17 +24,23 @@
     right:0;
     width:auto;
     height: 3px;
-    background: red;
-    transition: transform 200ms;
+    background: $ca-linkLine;
+    transition: transform $a-timing;
     transform-origin: 100% 100%;
     transform: scaleY(0);
   }
 
+  &.is-active:after,
   &:hover:after {
     transform: scaleY(1);
   }
 }
 
 a {
-  @extend .link
+  @extend .link;
 }
+
+p > a {
+  @extend .link--inline;
+}
+

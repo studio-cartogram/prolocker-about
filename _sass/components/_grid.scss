@@ -1,0 +1,48 @@
+.container {
+    position: relative;
+    margin: 0 auto;
+    padding: 0 $d-trio;
+}
+
+.row {
+    max-width: $d-container-max;
+    margin: 0 auto;
+    display:flex;
+
+    &.stacked-on-laptop {
+        padding-bottom: 0;
+        flex-direction: column;
+
+        @include bp($b-desktop) {
+            padding-bottom: $d-quad;
+            flex-direction: row;
+        }
+    }
+
+    &.stacked-on-tablet {
+        flex-direction: column;
+
+        @include bp($b-laptop) {
+            flex-direction: row;
+        }
+    }
+}
+
+.row--full {
+    max-width: 100%;
+}
+
+.column {
+}
+
+.column--auto {
+  flex: 1 1 auto;
+}
+
+.centered {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 80%;
+}

@@ -1,0 +1,51 @@
+/* =========================================
+		Color Index
+   ========================================= */
+/**
+ * Prefix colors with $c- this
+ * makes them easily findable
+ * with auto complete
+ *
+ * Give colors their names in the
+ * index. This makes it easier to
+ * arrange them reasonably in the
+ * index
+ */
+
+$c-white: #ffffff;
+$c-sand: #f7f7f7;
+$c-ghost: #edeef3;
+$c-silver: #dcdde2;
+$c-smoke: #b5b6bb;
+$c-storm: #8c8d92;
+$c-coal: #58585b;
+$c-black: #0e0f0f;
+$c-red: #ee4623;
+
+/* =========================================
+		Colors Applied
+   ========================================= */
+/**
+ * Prefix applied colors with $ca-
+ * this makes them easily findable
+ * with auto complete
+ *
+ * Define where colors where and how
+ * colors are used. This makes it
+ * easier to use them in the rest
+ * of the sass code
+ */
+
+
+// elements
+$ca-bgBody: transparent;
+$ca-subheaderBorder: $c-ghost;
+$ca-headerBg: $c-white;
+$ca-linkHov: $c-black;
+$ca-linkLine: $c-red;
+
+// typography
+$ca-text: $c-coal;
+$ca-headings: $c-black;
+$ca-textMuted: $c-silver;
+

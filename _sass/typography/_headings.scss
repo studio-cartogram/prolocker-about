@@ -1,0 +1,71 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin:0;
+    font-weight: $t-weightSemiBold;
+    font-family: $t-fontBody;
+    color: $ca-headings;
+    line-height: $t-lineHeightHeading;
+
+    .format & {
+      margin-bottom: $d-base;
+    }
+}
+
+h1 {
+    font-size:$t-sizeAlpha;
+
+    @include bp($b-mobile) {
+    }
+
+    @include bp($b-tablet) {
+    }
+
+    @include bp($b-laptop) {
+    }
+
+    @include bp($b-desktop) {
+    }
+}
+
+h2 {
+    font-size:$t-sizeBeta ;
+}
+
+h3 {
+    font-size:$t-sizeGamma ;
+}
+
+h6 {
+    font-size:$t-sizeZeta ;
+    color: $ca-textMuted;
+    font-weight: $t-weightMedium;
+}
+
+.alpha {
+    @extend h1;
+}
+
+.beta {
+    @extend h2;
+}
+
+.gamma {
+    @extend h3;
+}
+
+.delta {
+    @extend h4;
+}
+
+.epsilon {
+    @extend h5;
+}
+
+.zeta {
+    @extend h6;
+}
+

@@ -1,0 +1,9 @@
+.subheader {
+  border-bottom: 1px solid $ca-subheaderBorder;
+}
+
+.subheader__link {
+  line-height: $d-quin;
+  text-align: center;
+  font-weight: $t-weightSemiBold;
+}

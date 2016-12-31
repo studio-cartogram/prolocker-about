@@ -44,4 +44,3 @@ faqs:
     order) commenting on products, lorem ipsum and dolar sit amet.  '
 ---
 
-This is the FAQ page.

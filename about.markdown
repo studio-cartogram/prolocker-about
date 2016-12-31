@@ -5,7 +5,7 @@ blocks:
 - section one
 - section two
 - section three
-Intro: Prolocker helps fans and so on
+intro: Prolocker helps fans and so on
 ---
 
 ##ProLocker is the online equivalent of browsing the locker rooms of the world's most prolific professional athletes. 

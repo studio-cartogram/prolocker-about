@@ -1,0 +1,29 @@
+.link {
+  text-decoration: none;
+}
+
+.link--has-line {
+  position: relative;
+
+  &:after {
+    content: '';
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    width:auto;
+    height: 3px;
+    background: red;
+    transition: transform 200ms;
+    transform-origin: 100% 100%;
+    transform: scaleY(0);
+  }
+
+  &:hover:after {
+    transform: scaleY(1);
+  }
+}
+
+a {
+  @extend .link
+}

@@ -2,18 +2,15 @@
 title: About
 date: 2016-07-19 02:50:00 Z
 blocks:
-- |-
-  #Browse
-
-  Search 5,443 products by brand, type, or sport, or just see the latest. Products are chosen and curated by the ProLocker Team.
-- |-
-  #Follow
-
-  Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1), Facebook, Instagram or subscribe to our newsletter. New products are added daily.
-- |-
-  #Join
-
-  Become a member to receive email notifications, save products to lockers, and customize your product feed.
+- heading: Browse
+  text: Search 5,443 products by brand, type, or sport, or just see the latest. Products
+    are chosen and curated by the ProLocker Team.
+- heading: Follow
+  text: Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1),
+    Facebook, Instagram or subscribe to our newsletter. New products are added daily.
+- heading: Join
+  text: Become a member to receive email notifications, save products to lockers,
+    and customize your product feed.
 intro: ProLocker helps fans find the products they want through the sports, athletes
   and teams that they care about
 ---

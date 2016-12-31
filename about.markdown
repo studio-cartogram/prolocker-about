@@ -9,11 +9,11 @@ blocks:
 - |-
   #Follow
 
-  Make sure that you’re notified of updates on <a href="#">Twitter</a>, <a href="#">Facebook</a>, <a href="#">Instagram</a> or <a href="#">subscribe to our newsletter</a>. New products are added daily.
+  Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1), Facebook, Instagram or subscribe to our newsletter. New products are added daily.
 - |-
   #Join
 
-  <a href="#">Become a member</a> to receive email notifications, save products to lockers, and customize your product feed.
+  Become a member to receive email notifications, save products to lockers, and customize your product feed.
 intro: ProLocker helps fans find the products they want through the sports, athletes
   and teams that they care about
 ---

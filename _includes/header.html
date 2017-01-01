@@ -1,6 +1,9 @@
 <header class="header container">
-  <div class="row row--full">
-    <a class="column column--auto header__link header__logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  <div class="header__inner row row--full">
+    <a class="column column--auto header__link header__logo" href="{{ site.baseurl }}/">
+      <img src="/img/logo-word.svg" alt="{{ site.title }}" />
+      <span class="visuallyhidden">{{ site.title }}</span>
+    </a>
     <nav class="column header__nav">
       <a class="link link--has-line header__link" href="https://prolocker.com/discover">Discover</a>
       <a class="link link--has-line header__link" href="https://prolocker.com/auth/login">Log In</a>

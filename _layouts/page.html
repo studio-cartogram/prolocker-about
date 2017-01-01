@@ -2,16 +2,18 @@
 layout: default
 ---
 
-<article class="container main page">
+<article class="mb container main page">
 
   {% if page.intro %}
-    <header class="py5 row page__header">
-      <h1>{{ page.intro }}</h1>
+    <header class="mb row page__header">
+      <h1 class="column column--3-4">
+        {{ page.intro }}
+      </h1>
     </header>
   {% endif %}
 
   {% if page.blocks %}
-    <div class="row blocks">
+    <div class="mb row blocks">
       {% for block in page.blocks %}
         <div class="format column column--auto block">
           <h3>{{ block.heading }}</h3>
@@ -22,20 +24,26 @@ layout: default
   {% endif %}
   </div>
 
-  <div class="row py5">
+  <div class="row mb">
     <hr class="rule" />
   </div>
 
-  <div class="row post-content">
-    {{ content }}
-    {% if page.faqs %}
-        <dl class="list list--faqs">
-        {% for faq in page.faqs %}
-        <dt class="list__term"><strong>{{ faq.question }}</strong></dt>
-            <dd class="list__def">{{ faq.answer }}</dd>
-        {% endfor %}
-        </dl>
-    {% endif %}
+  <div class="row mb content">
+    <div class="column column--3-4">
+      {{ content }}
+    </div>
   </div>
+  {% if page.faqs %}
+  <div class="row mb content">
+    <div class="column">
+      <dl class="list list--faqs">
+      {% for faq in page.faqs %}
+      <dt class="list__term"><strong>{{ faq.question }}</strong></dt>
+          <dd class="list__def">{{ faq.answer }}</dd>
+      {% endfor %}
+      </dl>
+    </div>
+  </div>
+  {% endif %}
 
 </article>

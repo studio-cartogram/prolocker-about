@@ -2,8 +2,12 @@
   border-bottom: 1px solid $ca-subheaderBorder;
 }
 
+.subheader__nav {
+  flex-direction: row;
+}
+
 .subheader__link {
-  line-height: $d-quin;
+  line-height: $d-trio;
   text-align: center;
   font-weight: $t-weightSemiBold;
 }

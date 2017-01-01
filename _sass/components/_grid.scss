@@ -1,30 +1,23 @@
 .container {
     position: relative;
-    margin: 0 auto;
-    padding: 0 $d-trio;
+    padding: 0 $d-duo;
+    @include bp($b-tablet) {
+      padding: 0 $d-trio;
+    }
+    @include bp($b-desktop) {
+      padding: 0 $d-trio;
+    }
 }
 
 .row {
     max-width: $d-container-max;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     display:flex;
+    flex-direction: column;
 
-    &.stacked-on-laptop {
-        padding-bottom: 0;
-        flex-direction: column;
-
-        @include bp($b-desktop) {
-            padding-bottom: $d-quad;
-            flex-direction: row;
-        }
-    }
-
-    &.stacked-on-tablet {
-        flex-direction: column;
-
-        @include bp($b-laptop) {
-            flex-direction: row;
-        }
+    @include bp($b-tablet) {
+      flex-direction: row;
     }
 }
 
@@ -33,10 +26,18 @@
 }
 
 .column {
+  padding: $d-base;
 }
 
 .column--auto {
   flex: 1 1 auto;
+}
+
+.column--3-4 {
+
+  @include bp($b-tablet) {
+    max-width: 75%;
+  }
 }
 
 .centered {

@@ -1,17 +1,10 @@
-.page__label {
-    padding: 0 0 $d-base;
-
-    @include bp($b-desktop) {
-        padding: 0 $d-base;
-        flex: 1 0 20%;
-    }
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
-.page__value {
-    padding: 0;
-
-    @include bp($b-desktop) {
-        flex: 4 0 80%;
-        padding: 0 $d-quad * 2 $d-duo;
-    }
+.main {
+  margin-bottom: $d-oct;
+  flex: 1;
 }

@@ -1,11 +1,12 @@
 .icon {
-    display:inline-block;
-    max-width: 2.5em;
-    max-height: 2.5em;
+  display:inline-block;
+  max-width: 1.5em;
+  max-height: 1.5em;
+  opacity: 0.2;
 
-    @include bp($b-tablet) {
-        max-width: 2em;
-        max-height: 2em;
-    }
+  &.icon--large {
+    max-width: 4em;
+    max-height: 4em;
+  }
 }
 

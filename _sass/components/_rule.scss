@@ -1,7 +1,13 @@
 .rule {
   height: 1px;
   background: $c-ghost;
-  margin:0;
+  margin:0 $d-base;
   border: 0;
+  max-width: $d-container-max;
   width: 100%;
+}
+
+.rule--full {
+  margin:0;
+  max-width: 100%;
 }

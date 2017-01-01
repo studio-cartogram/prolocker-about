@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2016-07-19 02:50:00 Z
-permalink: "/"
 blocks:
 - heading: Browse
   text: Search 5,443 products by brand, type, or sport, or just see the latest. Products

@@ -7,7 +7,13 @@ layout: default
   {% if page.intro %}
     <header class="mb row page__header">
       <h1 class="column column--3-4">
-        {{ page.intro }}
+        {{page.intro}}
+      </h1>
+    </header>
+  {% else %}
+    <header class="mb row page__header">
+      <h1 class="column column--3-4">
+        {{page.title}}
       </h1>
     </header>
   {% endif %}
@@ -21,12 +27,10 @@ layout: default
         </div>
       {% endfor %}
     </div>
+    <div class="row mb">
+      <hr class="rule" />
+    </div>
   {% endif %}
-  </div>
-
-  <div class="row mb">
-    <hr class="rule" />
-  </div>
 
   <div class="row mb content">
     <div class="column column--3-4">

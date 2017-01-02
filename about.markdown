@@ -39,8 +39,8 @@ faqs:
     log-in email and what you’d like your new log-in email to be.
 - question: How do I purchase an item?
   answer: Click on an item you wish to purchase then click on the main “Purchase”
-    button in the top right. You will see one or more options for online location
-    to purchase the product.
+    button in the top right. You will see one or more options for verified online
+    locations to purchase the product.
 - question: How do I save an item?
   answer: Click on an item you wish to purchase then click on the “Save” link in the
     top left. A window will pop up to allow to you save to an existing locker or create

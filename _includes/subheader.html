@@ -2,8 +2,9 @@
   <nav class="row subheader__nav">
     {% for my_page in site.pages %}
       {% if my_page.title %}
-      <a class="column column--auto link link--has-line subheader__link {% if page.title == my_page.title %}is-active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <a class="column column--auto link link--has-line subheader__link {% if page.url == my_page.url %}is-active{% endif %}" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
       {% endif %}
     {% endfor %}
   </nav>
 </header>
+

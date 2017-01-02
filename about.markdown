@@ -15,6 +15,7 @@ blocks:
     save products to lockers, and customize your product feed."
 intro: ProLocker helps fans find the products they want through the sports, athletes
   and teams that they care about
+faq header: FAQ
 faqs:
 - question: What is ProLocker?
   answer: 'ProLocker is the online equivalent of browsing the locker rooms of the

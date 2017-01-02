@@ -10,7 +10,8 @@ blocks:
 - heading: Follow
   text: Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1),
     [Facebook](https://facebook.com/prolocker), [Instagram](https://instagram.com/prolocker)
-    or subscribe to our newsletter. New products are added daily.
+    or [subscribe to our newsletter](http://subscribe.prolocker.com/). New products
+    are added daily.
 - heading: Join
   text: "[Become a member](https://prolocker.com//auth/signup) to receive email notifications,
     save products to lockers, and customize your product feed."

@@ -4,8 +4,9 @@ date: 2016-07-19 02:50:00 Z
 permalink: "/"
 blocks:
 - heading: Browse
-  text: Search 5,443 products by brand, type, or sport, or just see the latest. Products
-    are chosen and curated by the ProLocker Team.
+  text: "[Search 5,443 products](http://prolocker.com/discover/products) by brand,
+    type, or sport, or just see the latest. Products are chosen and curated by the
+    ProLocker Team."
 - heading: Follow
   text: Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1),
     [Facebook](https://facebook.com/prolocker), [Instagram](https://instagram.com/prolocker)
@@ -15,6 +16,7 @@ blocks:
     save products to lockers, and customize your product feed."
 intro: ProLocker helps fans find the products they want through the sports, athletes
   and teams that they care about
+faq header: FAQ
 faqs:
 - question: What is ProLocker?
   answer: 'ProLocker is the online equivalent of browsing the locker rooms of the
@@ -39,8 +41,8 @@ faqs:
     log-in email and what you’d like your new log-in email to be.
 - question: How do I purchase an item?
   answer: Click on an item you wish to purchase then click on the main “Purchase”
-    button in the top right. You will see one or more options for online location
-    to purchase the product.
+    button in the top right. You will see one or more options for verified online
+    locations to purchase the product.
 - question: How do I save an item?
   answer: Click on an item you wish to purchase then click on the “Save” link in the
     top left. A window will pop up to allow to you save to an existing locker or create
@@ -65,4 +67,3 @@ faqs:
 layout: page
 ---
 
-Featuring the most popular athletes on the planet, from all major league sports, ProLocker informs fans of what products their favorite player is currently using on and off the court. A search engine devoted to sports-related merchandise, ProLocker brings together the most updated stores and the best athletes; allowing fans to cross-shop thousands of official apparel, lifestyle, products and sporting goods all in one unique place. Fans have the ability to add multiple products from any of their favorite athlete's and create their own personal lockers.

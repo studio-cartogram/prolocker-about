@@ -4,8 +4,9 @@ date: 2016-07-19 02:50:00 Z
 permalink: "/"
 blocks:
 - heading: Browse
-  text: Search 5,443 products by brand, type, or sport, or just see the latest. Products
-    are chosen and curated by the ProLocker Team.
+  text: "[Search 5,443 products](http://prolocker.com/discover/products) by brand,
+    type, or sport, or just see the latest. Products are chosen and curated by the
+    ProLocker Team."
 - heading: Follow
   text: Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1),
     [Facebook](https://facebook.com/prolocker), [Instagram](https://instagram.com/prolocker)
@@ -15,7 +16,7 @@ blocks:
     save products to lockers, and customize your product feed."
 intro: ProLocker helps fans find the products they want through the sports, athletes
   and teams that they care about
-heading: FAQ
+faq header: FAQ
 faqs:
 - question: What is ProLocker?
   answer: 'ProLocker is the online equivalent of browsing the locker rooms of the

@@ -13,35 +13,35 @@ These Terms of Service ("Terms") govern your access to and use of ProLocker's we
  
 You may use our Products only if you can form a binding contract with ProLocker, and only in compliance with these Terms and all applicable laws. When you create your ProLocker account, you must provide us with accurate and complete information. Any use or access by anyone under the age of 13 is prohibited. If you open an account on behalf of a company, organization, or other entity, then (a) "you" includes you and that entity, and (b) you represent and warrant that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf. Some of our Products may be software that is downloaded to your computer, phone, tablet, or other device. You agree that we may automatically upgrade those Products, and these Terms will apply to such upgrades.
  
-b. Our license to you
+### b. Our license to you
 
 Subject to these Terms and our policies, we grant you a limited, non-exclusive, non-transferable, and revocable license to use our Product.
  
-c. Commercial use of ProLocker
+### c. Commercial use of ProLocker
  
 If you want to use our Products for commercial purposes you must create a business account and agree to our Business Terms of Service.
 
-2. Your Content
+## 2. Your Content
 
-a. Posting content
+### a. Posting content
  
 ProLocker allows you to post content, including photos, comments, links, and other materials. Anything that you post or otherwise make available on our Products is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to ProLocker.
  	
 More simply put:
 If you post your content on ProLocker, it still belongs to you but we can show it to people and others can save it.
 
-b. How ProLocker and other users can use your content
+### b. How ProLocker and other users can use your content
  
 You grant ProLocker and our users a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute your User Content on ProLocker solely for the purposes of operating, developing, providing, and using the ProLocker Products. Nothing in these Terms shall restrict other legal rights ProLocker may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content for any reason, including User Content that we believe violates these Terms or our policies.
  	
-More simply put:
+**More simply put:**
 Copies of content shared with others may remain even after you delete the content from your account.
 
-c. How long we keep your content
+### c. How long we keep your content
  
 Following termination or deactivation of your account, or if you remove any User Content from ProLocker, we may retain your User Content for a commercially reasonable period of time for backup, archival, or audit purposes. Furthermore, ProLocker and its users may retain and continue to use, store, display, reproduce, re-save, modify, create derivative works, perform, and distribute any of your User Content that other users have stored or shared through ProLocker.
  	 
-d. Feedback you provide
+### d. Feedback you provide
  
 We value hearing from our users, and are always interested in learning about ways we can make ProLocker more awesome. If you choose to submit comments, ideas or feedback, you agree that we are free to use them without any restriction or compensation to you. By accepting your submission, ProLocker does not waive any rights to use similar or related Feedback previously known to ProLocker, or developed by its employees, or obtained from sources other than you
 

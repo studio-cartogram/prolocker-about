@@ -27,7 +27,7 @@ If you want to use our Products for commercial purposes you must create a busine
  
 ProLocker allows you to post content, including photos, comments, links, and other materials. Anything that you post or otherwise make available on our Products is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to ProLocker.
  	
-More simply put:
+**More simply put:**
 If you post your content on ProLocker, it still belongs to you but we can show it to people and others can save it.
 
 ### b. How ProLocker and other users can use your content

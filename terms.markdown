@@ -7,9 +7,9 @@ Thank you for using ProLocker!
 
 These Terms of Service ("Terms") govern your access to and use of ProLocker's website, products, and services ("Products"). Please read these Terms carefully, and contact us if you have any questions. By accessing or using our Products, you agree to be bound by these Terms and by our Privacy Policy. You also confirm you have read and agreed to our Acceptable Use Policy and our Cookies Policy.
 
-##1. Using ProLocker
+## 1. Using ProLocker
 
-a. Who can use ProLocker
+### a. Who can use ProLocker
  
 You may use our Products only if you can form a binding contract with ProLocker, and only in compliance with these Terms and all applicable laws. When you create your ProLocker account, you must provide us with accurate and complete information. Any use or access by anyone under the age of 13 is prohibited. If you open an account on behalf of a company, organization, or other entity, then (a) "you" includes you and that entity, and (b) you represent and warrant that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf. Some of our Products may be software that is downloaded to your computer, phone, tablet, or other device. You agree that we may automatically upgrade those Products, and these Terms will apply to such upgrades.
  

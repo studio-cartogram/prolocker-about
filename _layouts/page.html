@@ -39,11 +39,16 @@ layout: default
   </div>
   {% if page.faqs %}
   <div class="row mb content">
+    <header class="mb row page__header">
+      <h1 class="column column--3-4">
+        {{page.heading}}
+      </h1>
+    </header>
     <div class="column">
       <dl class="list list--faqs">
       {% for faq in page.faqs %}
       <dt class="list__term"><strong>{{ faq.question }}</strong></dt>
-          <dd class="list__def">{{ faq.answer }}</dd>
+          <dd class="list__def">{{ faq.text }}</dd>
       {% endfor %}
       </dl>
     </div>

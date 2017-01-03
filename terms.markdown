@@ -97,7 +97,7 @@ To the extent any claim, dispute or controversy regarding ProLocker or our Produ
 
 ## 11. Governing Law and Jurisdiction
 
-These Terms shall be governed by the laws of the Province of Ontario, without respect to its conflict of laws principles. We each agree to submit to the personal jurisdiction of a provincial court located in Toronto, Ontario, for any actions not subject to Section 10 (Arbitration).
+These Terms shall be governed by the laws of the Province of Ontario, Canada without respect to its conflict of laws principles. We each agree to submit to the personal jurisdiction of a provincial court located in Toronto, Ontario, Canada for any actions not subject to Section 10 (Arbitration).
 
 **More simply put:**
 You'll have to sue us in Toronto.

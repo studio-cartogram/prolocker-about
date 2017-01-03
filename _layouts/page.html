@@ -48,7 +48,7 @@ layout: default
       <dl class="list list--faqs">
       {% for faq in page.faqs %}
       <dt class="list__term"><strong>{{ faq.question }}</strong></dt>
-          <dd class="list__def">{{ faq.text }}</dd>
+          <dd class="list__def">{{ faq.text | markdownify }}</dd>
       {% endfor %}
       </dl>
     </div>

@@ -9,6 +9,10 @@ The `jekyll' command exists in Ruby 2.2.2. To switch to this ruby verion using r
 
 ## Getting Started
 
+Install the bundler:
+
+```$ gem install bundler```
+
 Start the Jekyll server:
 
 ```$ bundle exec jekyll serve```

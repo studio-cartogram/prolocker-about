@@ -115,4 +115,4 @@ Entire Agreement/Severability. These Terms, together with the Privacy Policy and
 
 No Waiver. No waiver of any term of these Terms shall be deemed a further or continuing waiver of such term or any other term, and ProLocker's failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision.
 
-Parties. ProLocker is a worldwide service and our reference to ProLocker in these Terms includes ProLocker Inc. and all of its worldwide subsidiaries. If you live in the Canada, these Terms are a contract between you and ProLocker Inc., Toronto ON Canada.
+Parties. ProLocker is a North American service and our reference to ProLocker in these Terms includes ProLocker Inc. and all of its North American subsidiaries. If you live in Canada, these Terms are a contract between you and ProLocker Inc., Toronto ON Canada.

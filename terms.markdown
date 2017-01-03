@@ -7,9 +7,9 @@ Thank you for using ProLocker!
 
 These Terms of Service ("Terms") govern your access to and use of ProLocker's website, products, and services ("Products"). Please read these Terms carefully, and contact us if you have any questions. By accessing or using our Products, you agree to be bound by these Terms and by our Privacy Policy. You also confirm you have read and agreed to our Acceptable Use Policy and our Cookies Policy.
 
-##1. Using ProLocker
+## 1. Using ProLocker
 
-a. Who can use ProLocker
+### a. Who can use ProLocker
  
 You may use our Products only if you can form a binding contract with ProLocker, and only in compliance with these Terms and all applicable laws. When you create your ProLocker account, you must provide us with accurate and complete information. Any use or access by anyone under the age of 13 is prohibited. If you open an account on behalf of a company, organization, or other entity, then (a) "you" includes you and that entity, and (b) you represent and warrant that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf. Some of our Products may be software that is downloaded to your computer, phone, tablet, or other device. You agree that we may automatically upgrade those Products, and these Terms will apply to such upgrades.
  
@@ -39,7 +39,7 @@ Copies of content shared with others may remain even after you delete the conten
 
 c. How long we keep your content
  
-Following termination or deactivation of your account, or if you remove any User Content from ProLocker, we may retain your User Content for a commercially reasonable period of time for backup, archival, or audit purposes. Furthermore, ProLocker and its users may retain and continue to use, store, display, reproduce, re-pin, modify, create derivative works, perform, and distribute any of your User Content that other users have stored or shared through ProLocker.
+Following termination or deactivation of your account, or if you remove any User Content from ProLocker, we may retain your User Content for a commercially reasonable period of time for backup, archival, or audit purposes. Furthermore, ProLocker and its users may retain and continue to use, store, display, reproduce, re-save, modify, create derivative works, perform, and distribute any of your User Content that other users have stored or shared through ProLocker.
  	 
 d. Feedback you provide
  
@@ -58,7 +58,7 @@ We care about the security of our users. While we work to protect the security o
 Our Products may contain links to third-party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by ProLocker. We do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. If you access any third party website, service, or content from ProLocker, you do so at your own risk and you agree that ProLocker will have no liability arising from your use of or access to any third-party website, service, or content.
 
 More simply put:
-Pins link to content off of ProLocker. Most of that stuff is awesome but we're not responsible when it's not.
+Products link to content off of ProLocker. Most of that stuff is awesome but we're not responsible when it's not.
 
 6. Termination
 

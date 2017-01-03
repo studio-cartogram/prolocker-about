@@ -45,7 +45,7 @@ Following termination or deactivation of your account, or if you remove any User
  
 We value hearing from our users, and are always interested in learning about ways we can make ProLocker more awesome. If you choose to submit comments, ideas or feedback, you agree that we are free to use them without any restriction or compensation to you. By accepting your submission, ProLocker does not waive any rights to use similar or related Feedback previously known to ProLocker, or developed by its employees, or obtained from sources other than you
 
-3. Copyright Policy
+##3. Copyright Policy
 
 ProLocker has adopted and implemented the ProLocker Copyright Policy in accordance with the Digital Millennium Copyright Act and other applicable copyright laws. For more information, please read our Copyright Policy.
 

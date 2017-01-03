@@ -111,6 +111,6 @@ We may change this policy from time to time, and if we do we’ll post any chang
 
 ## How can you contact us?
 
-The best way to contact us is online through the Contact page. If you live in the Canada, ProLocker, Inc. is responsible for your information. You can contact ProLocker Inc. Toronto, ON Canada.
+The best way to contact us is online through the Contact page. If you live in the Canada, ProLocker, Inc. is responsible for your information. You can c[ontact ProLocker Inc.](mailto:info@prolocker.com) Toronto, ON Canada.
 
 **Effective: November 1, 2016**

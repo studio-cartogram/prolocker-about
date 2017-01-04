@@ -11,7 +11,7 @@ h6 {
     line-height: $t-lineHeightHeading;
 
     .format & {
-      margin-bottom: $d-base;
+      margin-bottom: $d-duo;
     }
 }
 
@@ -33,10 +33,17 @@ h6 {
 
 h2 {
     font-size:$t-sizeBeta ;
+    .format & {
+      padding-top: $d-duo;
+    }
 }
 
 h3 {
     font-size:$t-sizeGamma ;
+    .format & {
+      padding-top: $d-duo;
+      margin-bottom: $d-base;
+    }
 }
 
 h6 {

@@ -4,4 +4,8 @@ p,
 .p {
     font-size: $t-sizeP;
     margin: 0;
+
+    .format & {
+      margin-bottom: $d-duo;
+    }
 }

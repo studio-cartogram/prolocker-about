@@ -20,5 +20,8 @@ Utility Classes
 }
 
 .mb {
-  margin-bottom: $d-quin;
+  margin-bottom: $d-trio;
+  @include bp($b-tablet) {
+    margin-bottom: $d-quin;
+  }
 }

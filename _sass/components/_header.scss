@@ -14,5 +14,8 @@
 .header__link {
   line-height: $d-oct;
   padding: 0;
-  margin:0 $d-base;
+  margin:0 $d-base/2;
+  @include bp($b-mobile) {
+    margin:0 $d-base;
+  }
 }

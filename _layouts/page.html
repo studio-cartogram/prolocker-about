@@ -11,7 +11,7 @@ layout: default
       </h1>
     </header>
   {% else %}
-    <header class="mb row page__header">
+    <header class="row page__header">
       <h1 class="column column--3-4">
         {{page.title}}
       </h1>
@@ -21,7 +21,7 @@ layout: default
   {% if page.blocks %}
     <div class="mb row blocks">
       {% for block in page.blocks %}
-        <div class="format column column--auto block">
+        <div class="column column--auto block">
           <h3>{{ block.heading }}</h3>
           {{ block.text | markdownify }}
         </div>
@@ -31,20 +31,24 @@ layout: default
       <hr class="rule" />
     </div>
   {% endif %}
-
-  <div class="row mb content">
-    <div class="column column--3-4">
+  {% if content.size > 1 %}
+  <div class="row mb">
+    <hr class="rule" />
+  </div>
+  <div class="row mb ">
+    <div class="format column column--3-4">
       {{ content }}
     </div>
   </div>
+  {% endif %}
   {% if page.faqs %}
-  <div class="row mb content">
-    <header class="mb row page__header">
-      <h1 class="column column--3-4">
-        {{page.heading}}
-      </h1>
-    </header>
-    <div class="column">
+  <header class="row ">
+    <h1 class="format column column--3-4">
+      {{page.heading}}
+    </h1>
+  </header>
+  <div class="row mb">
+    <div class="format column column--3-4">
       <dl class="list list--faqs">
       {% for faq in page.faqs %}
       <dt class="list__term"><strong>{{ faq.question }}</strong></dt>

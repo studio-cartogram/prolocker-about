@@ -9,7 +9,7 @@ blocks:
     ProLocker Team."
 - heading: Follow
   text: Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1),
-    [Facebook}(https://www.facebook.com/prolocker1/), [Instagram](https://instagram.com/prolocker)
+    [Facebook}(https://www.facebook.com/prolocker1), [Instagram](https://instagram.com/prolocker)
     or [subscribe to our newsletter](http://subscribe.prolocker.com/). New products
     are added daily.
 - heading: Join

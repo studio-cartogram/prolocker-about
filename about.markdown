@@ -8,9 +8,10 @@ blocks:
     type, or sport, or just see the latest. Products are chosen and curated by the
     ProLocker Team."
 - heading: Follow
-  text: |-
-    Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1), [Facebook]
-    (https://www.facebook.com/prolockersports), [Instagram](https://instagram.com/prolocker) or [subscribe to our newsletter](http://subscribe.prolocker.com/). New products are added daily.
+  text: Make sure that you’re notified of updates on [Twitter](https://twitter.com/prolocker1),
+    [Facebook](https://www.facebook.com/prolockersports), [Instagram](https://instagram.com/prolocker)
+    or [subscribe to our newsletter](http://subscribe.prolocker.com/). New products
+    are added daily.
 - heading: Join
   text: "[Become a member](https://prolocker.com//auth/signup) to receive email notifications,
     save products to lockers, and customize your product feed."
